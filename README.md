@@ -3,7 +3,7 @@
 Some basic exercises completed in Ruby whilst learning to program.
 All programs run in the command line.
 
-# Excercises Include
+# Exercises Include
 
 * binaryCalcV4 - Takes a Decimal number and returns its Binary equivalent; and visa versa.
 * bottles - Takes an Integer and returns the lyrics to the popular song "Green bottles sitting on the wall..."
